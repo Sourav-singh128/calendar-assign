@@ -1,0 +1,10 @@
+.date-block {
+  width: 128.3px;
+  height: 100px;
+  border: 1px solid black;
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

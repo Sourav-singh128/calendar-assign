@@ -1,0 +1,23 @@
+.container {
+  border: 1px solid black;
+}
+
+.days-heading {
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+  background: aliceblue;
+}
+
+/* .days-heading:last-child {
+  margin-right: 10px;
+  color: yellow;
+} */
+.date-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.days {
+  padding: 0 10px;
+}
